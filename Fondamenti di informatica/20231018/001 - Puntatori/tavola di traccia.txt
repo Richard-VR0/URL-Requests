@@ -1,0 +1,26 @@
+pPtr	x --> y
+qPtr	x --> y
+rPtr	y --> x
+
+x		4
+y		5
+
+pPtr = &x
+qPtr = &x
+rPtr = &y
+
+*pPtr = *pPtr * 3 + 1	= 1 * 3 + 1 = 4
+
+qPtr = rPtr			qPtr = &y
+
+*pPtr	*qPtr 	*rPtr
+  4		  5		  5
+
+*rPtr = *qPtr		y = y
+
+rPtr = pPtr			rPtr = x
+
+pPtr = qPtr;		pPtr = y
+
+*pPtr	*qPtr 	*rPtr
+  5		  5		  4
