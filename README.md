@@ -1,6 +1,10 @@
 # PoliMi
 Directory containing all the projects of the bachelor’s degree in computer engineering of the Politecnico di Milano
 
+<table>
+  <tr><td><b>Fondamenti di informatica</b></td> <td>Esercizi C</td></tr>
+</table>
+
 # Fondamenti di informatica
 Exercises in language C
 <ul>
