@@ -1,5 +1,5 @@
 # PoliMi
-This repository containing all the projects of the bachelor’s degree in computer engineering of the Politecnico di Milano
+All the projects of the bachelor’s degree in computer engineering of the Politecnico di Milano
 
 # Fondamenti di informatica
 Exercises in language C
