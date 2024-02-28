@@ -1,6 +1,24 @@
 # PoliMi
 All the projects of the bachelor’s degree in computer engineering of the Politecnico di Milano
 
+# Fondamenti di comunicazioni e Internet
+Exercises in language Python and Cisco Packet Tracer
+<ul>
+  <li>Math operations</li>
+  <li>Type of variables</li>
+  <li>Type conversions</li>
+  <li>Input</li>
+  <li>Boolean logic</li>
+  <li>Selection</li>
+  <li>While and For</li>
+  <li>Random</li>
+  <li>Math</li>
+  <li>Functions</li>
+  <li>Global and local variables</li>
+  <li>Lists and tuples</li>
+</ul>
+
+
 # Fondamenti di informatica
 Exercises in language C
 <ul>
