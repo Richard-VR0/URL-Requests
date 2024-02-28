@@ -22,7 +22,7 @@ Exercises in language Python and Cisco Packet Tracer
   </li>
   <li>Lab1
     <ul>
-      <li>Response time of an HTTP server</li>
+      <li>Response time of an HTTP server (with Matplotlib)</li>
     </ul>
   </li>
 </ul>
