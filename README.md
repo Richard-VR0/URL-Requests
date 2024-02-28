@@ -4,7 +4,7 @@ All the projects of the bachelor’s degree in computer engineering of the Polit
 # Fondamenti di comunicazioni e Internet
 Exercises in language Python and Cisco Packet Tracer
 <ul>
-  <li>
+  <li>Intro
     <ul>
       <li>Math operations</li>
       <li>Type of variables</li>
