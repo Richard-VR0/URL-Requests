@@ -20,6 +20,11 @@ Exercises in language Python and Cisco Packet Tracer
       <li>Lists and tuples</li>
     </ul>
   </li>
+  <li>cURL
+    <ul>
+      <li>Basic instructions with cURL</li>
+    </ul>
+  </li>
   <li>Lab1
     <ul>
       <li>Response time of an HTTP server (with Matplotlib)</li>
