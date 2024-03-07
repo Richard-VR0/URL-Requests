@@ -4,7 +4,15 @@ All the projects of the bachelor’s degree in computer engineering of the Polit
 # Fondamenti di comunicazioni e Internet
 Exercises in language Python and Cisco Packet Tracer
 <ul>
-  <li>Intro
+  <li>HTTP
+    <ul>
+      <li>Script Batch with cURL</li>
+      <li>cURL commands guide</li>
+      <li>Test - HTTP Traffic Analysis</li>
+    </ul>
+  </li>
+  
+  <li>Intro Python
     <ul>
       <li>Math operations</li>
       <li>Type of variables</li>
