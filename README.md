@@ -2,7 +2,7 @@
 All the projects of the bachelor’s degree in computer engineering of the Politecnico di Milano
 
 # Fondamenti di comunicazioni e Internet
-Exercises in language Python and Cisco Packet Tracer
+Exercises in language Python, Batch and Cisco Packet Tracer
 <ul>
   <li>HTTP
     <ul>
