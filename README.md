@@ -3,7 +3,7 @@ All the projects of the bachelor’s degree in computer engineering of the Polit
 <a href="#fci">FCI</a>
 <a href="#fdi">FDI</a>
 
-# <a name="fci">Fondamenti di comunicazioni e Internet</a>
+# <a name="ci">Fondamenti di comunicazioni e Internet</a>
 Exercises in language Python, Batch and Cisco Packet Tracer
 <ul>
   <li>HTTP
