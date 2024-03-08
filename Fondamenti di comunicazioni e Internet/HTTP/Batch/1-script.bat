@@ -1,6 +1,6 @@
 @echo off
 
-echo Tempo di download - Velocita' download - Dimensione del download polimi
+echo Tempo di download - Dimensione del download - Velocita'di download
 echo -------------------
 
 for %%i IN (1 2 3 4 5) DO (
