@@ -1,9 +1,7 @@
 # PoliMi
 All the projects of the bachelor’s degree in computer engineering of the Politecnico di Milano
-<a href="#fci">FCI</a>
-<a href="#fdi">FDI</a>
 
-# <a name="fci">Fondamenti di comunicazioni e Internet</a>
+# Fondamenti di comunicazioni e Internet
 Exercises in language Python, Batch and Cisco Packet Tracer
 <ul>
   <li>HTTP
@@ -38,7 +36,7 @@ Exercises in language Python, Batch and Cisco Packet Tracer
 </ul>
 
 
-# <a name="fdi">Fondamenti di Informatica</a>
+# Fondamenti di Informatica
 Exercises in language C
 <ul>
   <li>Basic constructs</li>
