@@ -1,6 +1,6 @@
 @echo off
 
-echo Tempo di download - Velocita' download - Dimensione del download stanford
+echo Tempo di download - Dimensione del download - Velocita' download
 echo -------------------
 echo PoliMi
 echo -------------------
