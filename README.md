@@ -6,9 +6,18 @@ Exercises in language Python, Batch and Cisco Packet Tracer
 <ul>
   <li>HTTP
     <ul>
-      <li>Script Batch with cURL</li>
+      <li>Scripts Batch with cURL</li>
       <li>cURL commands guide</li>
       <li>Test - HTTP Traffic Analysis</li>
+    </ul>
+  </li>
+
+  <li>DNS
+    <ul>
+      <li>nslookup</li>
+      <li>dig</li>
+      <li>Scripts Batch</li>
+      <li>Command for DNS requests</li>
     </ul>
   </li>
   
