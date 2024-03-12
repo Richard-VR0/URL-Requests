@@ -13,7 +13,7 @@ for sito in siti:
     media.append(sum(tempi) / len(tempi))
 
 min = 0
-for i in range(1, len(siti)-1):
+for i in range(1, len(siti)):
     if media[min] > media[i]:
         min = i
 
