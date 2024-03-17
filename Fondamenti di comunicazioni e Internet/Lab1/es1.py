@@ -1,3 +1,11 @@
+def tempo_minimo():
+    min = 0
+    for i in range(1, len(siti)):
+        if media[min] > media[i]:
+            min = i
+            
+    return siti[min]
+
 import requests
 
 siti = ["http://www.youtube.com", "http://www.facebook.com", "http://www.github.com", "http://www.wikipedia.org", "http://www.amazon.com", "http://www.twitter.com"]
@@ -12,10 +20,5 @@ for sito in siti:
 
     media.append(sum(tempi) / len(tempi))
 
-min = 0
-for i in range(1, len(siti)):
-    if media[min] > media[i]:
-        min = i
-
 print(media)
-print("Sito con tempo medio minore: " , siti[min])
+print("Sito con tempo medio minore: " , tempo_minimo())
