@@ -14,7 +14,7 @@ for sito in siti:
         r = requests.get(sito)
         tempi.append(r.elapsed.microseconds / 1000)
 
-    print("Valore minimo: " + str(min(tempi)) + " msn")
+    print("Valore minimo: " + str(min(tempi)) + " ms")
     print("Valore massimo: " + str(max(tempi)) + " ms")
     print("Valore medio: " + str(sum(tempi) / len(tempi)) + " ms\n")
 
