@@ -43,7 +43,9 @@ Exercises in language Python, Batch and Cisco Packet Tracer
     </ul>
   </li>
   <li>Wireshark
-      Analysis of packages with Wireshark
+      <ul>
+        <li>Analysis of packages with Wireshark</li>
+      </ul>
 </ul>
 
 
