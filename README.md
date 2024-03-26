@@ -42,6 +42,8 @@ Exercises in language Python, Batch and Cisco Packet Tracer
       <li>Response time of an HTTP server (with Matplotlib)</li>
     </ul>
   </li>
+  <li>Wireshark
+      Analysis of packages with Wireshark
 </ul>
 
 
