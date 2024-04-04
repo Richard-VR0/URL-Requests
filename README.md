@@ -1,5 +1,5 @@
 # PoliMi
-All the projects of the bachelor’s degree in computer engineering of the Politecnico di Milano
+<b>All the projects of the bachelor’s degree in computer engineering of the Politecnico di Milano</b>
 
 # Fondamenti di comunicazioni e Internet
 Exercises in language Python, Batch and Cisco Packet Tracer
