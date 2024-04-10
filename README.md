@@ -44,7 +44,12 @@ Exercises in language Python, Batch and Cisco Packet Tracer
   </li>
   <li>Lab2
     <ul>
-      <li>Socket UDP</li>
+      <li>UDP Sockets</li>
+    </ul>
+  </li>
+  <li>Lab3
+    <ul>
+      <li>TCP Sockets</li>
     </ul>
   </li>
   <li>Wireshark
