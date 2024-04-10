@@ -19,7 +19,7 @@ while True:
         if characters == ".":
             break
 
-        print("Message content: ", characters, "\nLength: ", len(message), "\n")
+        print("Message content: ", characters, "\nLength: ", len(characters), "\n")
 
     print("Connection close with ", address)
     connection_socket.close()
