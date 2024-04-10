@@ -60,7 +60,7 @@ Exercises in language Python, Batch and Cisco Packet Tracer
 
 
 # Fondamenti di Informatica
-Exercises in language C
+Exercises in C language
 <ul>
   <li>Basic constructs</li>
   <li>One-dimensional array</li>
