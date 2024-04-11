@@ -11,7 +11,7 @@ client_socket = socket(AF_INET, SOCK_STREAM)
 client_socket.connect(server_address)
 
 for i in range (100):
-    message = "A"
+    message = "0"
 
     client_socket.send(message.encode('utf-8'))
     time.sleep(0.1)
