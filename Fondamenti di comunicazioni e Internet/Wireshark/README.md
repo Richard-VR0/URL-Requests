@@ -12,3 +12,8 @@ Filter: tcp.port==443
 DNS request with UDP protocol
 <br>
 Filter: udp.stream eq 3
+
+# 4-ICMP
+Ping command packets
+<br>
+Filter>: icmp
