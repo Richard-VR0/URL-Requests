@@ -16,4 +16,4 @@ Filter: udp.stream eq 3
 # 4-ICMP
 Ping command packets
 <br>
-Filter>: icmp
+Filter: icmp
