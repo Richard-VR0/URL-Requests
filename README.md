@@ -52,6 +52,11 @@ Exercises in Python language, Batch and Cisco Packet Tracer
       <li>TCP Sockets</li>
     </ul>
   </li>
+  <li>Lab4
+    <ul>
+      <li>Cisco Packet Tracer - 1</li>
+    </ul>
+  </li>
   <li>Wireshark
       <ul>
         <li>Analysis of packages with Wireshark<br>(HTTP - HTTPS - DNS - ICMP)</li>
