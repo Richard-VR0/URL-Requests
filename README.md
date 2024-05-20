@@ -58,6 +58,12 @@ Exercises in Python language, Batch and Cisco Packet Tracer
       <li>Commands for the router CLI</li>
     </ul>
   </li>
+  <li>Lab5
+    <ul>
+      <li>2 - Cisco Packet Tracer</li>
+      <li>RIP - Passive interfaces - EIGRP - NAT</li>
+    </ul>
+  </li>
   <li>Wireshark
       <ul>
         <li>Analysis of packages with Wireshark<br>(HTTP - HTTPS - DNS - ICMP)</li>
