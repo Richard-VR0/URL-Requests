@@ -55,7 +55,7 @@ Exercises in Python language, Batch and Cisco Packet Tracer
   <li>Lab4
     <ul>
       <li>1 - Cisco Packet Tracer</li>
-      <li>Commands for the router CLI</li>
+      <li>Basic commands for the router CLI</li>
     </ul>
   </li>
   <li>Lab5
