@@ -64,6 +64,12 @@ Exercises in Python language, Batch and Cisco Packet Tracer
       <li>RIP - Passive interfaces - EIGRP - NAT</li>
     </ul>
   </li>
+  <li>Lab6
+    <ul>
+      <li>3 - Cisco Packet Tracer</li>
+      <li>xPort forwarding - DHCP - Hub vs Switch</li>
+    </ul>
+  </li>
   <li>Wireshark
       <ul>
         <li>Analysis of packages with Wireshark<br>(HTTP - HTTPS - DNS - ICMP)</li>
