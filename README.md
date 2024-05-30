@@ -67,7 +67,7 @@ Exercises in Python language, Batch and Cisco Packet Tracer
   <li>Lab6
     <ul>
       <li>3 - Cisco Packet Tracer</li>
-      <li>xPort forwarding - DHCP - Hub vs Switch</li>
+      <li>Port forwarding - DHCP - Hub vs Switch</li>
     </ul>
   </li>
   <li>Wireshark
