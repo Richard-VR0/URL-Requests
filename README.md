@@ -2,7 +2,7 @@
 <b>All the projects of the bachelor’s degree in computer engineering of the Politecnico di Milano</b>
 
 # Fondamenti di comunicazioni e Internet
-<a href="https://drive.google.com/drive/folders/1aTM3zky9GSt2ljiN6jqqecBuVJ-m3QCP?usp=drive_link" target="_blank">Take a look at the material of the course.</a>
+<a href="https://drive.google.com/drive/folders/1aTM3zky9GSt2ljiN6jqqecBuVJ-m3QCP?usp=drive_link">Take a look at the material of the course.</a>
 
 Exercises in Python language, Batch and Cisco Packet Tracer
 <ul>
