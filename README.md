@@ -1,7 +1,8 @@
 # PoliMi
 <b>All the projects of the bachelor’s degree in computer engineering of the Politecnico di Milano</b>
 
-# Fondamenti di comunicazioni e Internet <a href="https://drive.google.com/drive/folders/1aTM3zky9GSt2ljiN6jqqecBuVJ-m3QCP?usp=drive_link">Link</a>
+# Fondamenti di comunicazioni e Internet
+<hr>
 Exercises in Python language, Batch and Cisco Packet Tracer
 <ul>
   <li>HTTP
