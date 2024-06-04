@@ -80,6 +80,8 @@ Exercises in Python language, Batch and Cisco Packet Tracer
 
 
 # Fondamenti di Informatica
+<a href="https://drive.google.com/drive/folders/1qPKIZw1J6Z2my_PWz_-AQ94msPL0uroU?usp=drive_link"><img width="200px" src="Fondamenti di comunicazioni e Internet/fci.png"></a>
+
 Exercises in C language
 <ul>
   <li>Basic constructs</li>
