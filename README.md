@@ -1,5 +1,6 @@
 # PoliMi
 <b>All the projects of the bachelor’s degree in computer engineering of the Politecnico di Milano</b>
+<a href="https://github.com/Richard-VR0/PoliMi/tree/main?tab=readme-ov-file#fondamenti-di-comunicazioni-e-internet">FCI</a>
 
 # Fondamenti di comunicazioni e Internet
 Exercises in Python language, Batch and Cisco Packet Tracer
