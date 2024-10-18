@@ -104,9 +104,8 @@ Labview Projects
   </li>
   <li>Lab2
     <ul>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Synthesizer - Sound generator with square waves and sinusoids</li>
+      <li>Graphical interface with knobs, graph and wave type selector</li>
     </ul>
   </li>
 </ul>
