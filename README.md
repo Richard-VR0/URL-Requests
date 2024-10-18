@@ -95,5 +95,11 @@ Exercises in C language
 # Misure
 Labview Projects
 <ul>
-  <li>Lab1 → Temperature converter - Display on chart - Threshold alarm and overshoot count</li>
+  <li>Lab1
+    <ul>
+      <li>Temperature converter</li>
+      <li>Display on chart</li>
+      <li>Threshold alarm and overshoot count</li>
+    </ul>
+  </li>
 </ul>
