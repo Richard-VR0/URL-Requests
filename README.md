@@ -108,6 +108,10 @@ Labview Projects
       <li>Graphical interface with knobs, graph and wave type selector</li>
     </ul>
   </li>
-  fjasdasd
-      fddasd
+  <li>Lab3
+    <ul>
+      <li>Audio acquisition system</li>
+      <li>Audio signal reproducer</li>
+    </ul>
+  </li>
 </ul>
