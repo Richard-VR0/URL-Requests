@@ -117,4 +117,5 @@ Labview Projects
 </ul>
 
 Linear regression
+<br>
 This program makes the linear regression to the least squares, input data is provided via csv file
