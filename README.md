@@ -115,3 +115,5 @@ Labview Projects
     </ul>
   </li>
 </ul>
+
+Linear regression
